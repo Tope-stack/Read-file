@@ -13,7 +13,7 @@ def read_file_content(filename):
  return mainfile
        
 
-    # return file
+   
 
 
 def count_words():
